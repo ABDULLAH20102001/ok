@@ -1,4 +1,4 @@
-import { AiOutlineHeart } from "react-icons/ai";    //icons ❤
+// import { AiOutlineHeart } from "react-icons/ai";      //<-icons ❤
 
 const Product2 = () => {
     return (

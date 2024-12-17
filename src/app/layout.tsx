@@ -1,5 +1,5 @@
 'use client';
-import type { Metadata } from "next";
+// import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
 
@@ -9,8 +9,8 @@ import Product2 from "./components/Product/2Product";
 import LeatestProducts from "./components/Product/LeatestProducts";
 
 
-import Home from "./page";
-import Home5 from "./components/Home/Home";
+// import Home from "./page";
+// import Home5 from "./components/Home/Home";
 import SelaiderHome from "./components/Home/SelaiderHome/page";
 import Selaiderttop from "./components/Selaider Top Categories/page";
 
