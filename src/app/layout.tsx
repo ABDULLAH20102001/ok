@@ -6,13 +6,13 @@ import "./globals.css";
 import Nave1 from "./components/Nave Botem/Nave1";
 import Botem from "./components/Nave Botem/Botem";
 import Product2 from "./components/Product/2Product";
-import LeatestProducts from "./components/Product/LeatestProducts";
+// import LeatestProducts from "./components/Product/LeatestProducts";
 
 
 // import Home from "./page";
 // import Home5 from "./components/Home/Home";
 import SelaiderHome from "./components/Home/SelaiderHome/page";
-import Selaiderttop from "./components/Selaider Top Categories/page";
+// import Selaiderttop from "./components/Selaider Top Categories/page";
 
 
 
